@@ -4,7 +4,7 @@
 Conduct business and operations analysis for Haldiram using Excel, PowerPoint, and documentation.
 
 ## 📁 Files
-- `Haldiram Project Report.pptm`: Summary presentation
+- `Haldiram_project.pptm`: Summary presentation
 - `Out-10.docx`, `Last page.docx`: Supporting documentation
 
 ## 🛠 Tools Used
